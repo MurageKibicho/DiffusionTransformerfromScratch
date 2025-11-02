@@ -15,9 +15,13 @@ I trained on CPU for 5 hours and got pretty decent results.
 
 
 ## Getting Started
+
+### Running Locally
 ```
 Run the Jupyter Notebook. Only dependency is Pytorch to avoid Python installation hell lol.
 ```
+### Running on Google Colab
+We also provide this Google Colab [notebook](https://colab.research.google.com/drive/1Y9apb464pgiRyyOfPkMXUCNTCXbFEKBu#scrollTo=_26JWABg-g5M)
 
 You can find one saved model in the folder
 ```
